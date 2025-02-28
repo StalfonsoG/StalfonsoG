@@ -1,5 +1,5 @@
 ## Hola soy Steven 👋
-
+Actualmente soy un estudiante de ingeniería de sistemas y computación en la Universidad Nacional de Colombia. Algunos de mis intereses son:
 <!--
 **StalfonsoG/StalfonsoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
