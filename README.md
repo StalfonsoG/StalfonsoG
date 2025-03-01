@@ -1,7 +1,5 @@
 # ¡Hola, mi nombre es Steven! 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+Perfil)
-
 ## Sobre mí
 
 Actualmente soy un estudiante de ingeniería de sistemas y computación en la Universidad Nacional de Colombia. Algunos de mis gustos e intereses son:
@@ -30,13 +28,10 @@ Algunos de los proyectos en los que he trabajdo son:
 
 <div align="center">
   <a href="https://github.com/EdwardVE/WordLink-Match-Learn.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=radical" alt="Proyecto 1">
   </a>
   <a href="https://github.com/SebastianSLJ/ProjectPOO.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=radical" alt="Proyecto 2">
   </a>
   <a href="https://github.com/Juan-Vergara/Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=radical" alt="Proyecto 2">
   </a>
 </div>
 
