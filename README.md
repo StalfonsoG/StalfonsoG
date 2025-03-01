@@ -8,7 +8,6 @@ Actualmente soy un estudiante de ingeniería de sistemas y computación en la Un
 - 🐈‍⬛ **Gatos**
 - 🎮 **Videojuegos**
 - 🤖 **Inteligencia artificial**
-- ♾️ **Matemáticas** 
 
 ---
 
