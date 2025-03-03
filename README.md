@@ -25,7 +25,7 @@ Actualmente soy un estudiante de ingeniería de sistemas y computación en la Un
 ---
 
 ## Proyectos Destacados
-Algunos de los proyectos en los que he participado son::
+He participado en algunos proyectos como:
 
 <div align="center">
   <a href="https://github.com/EdwardVE/WordLink-Match-Learn">
