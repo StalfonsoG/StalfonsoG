@@ -28,13 +28,17 @@ Actualmente soy un estudiante de ingeniería de sistemas y computación en la Un
 Algunos de los proyectos en los que he trabajdo son:
 
 <div align="center">
-  <a href="https://github.com/EdwardVE/WordLink-Match-Learn.git">
+  <a href="https://github.com/EdwardVE/WordLink-Match-Learn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardVE&repo=WordLink-Match-Learn&theme=radical" alt="WordLink-Match-Learn"/>
   </a>
-  <a href="https://github.com/SebastianSLJ/ProjectPOO.git">
+  <a href="https://github.com/SebastianSLJ/ProjectPOO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianSLJ&repo=ProjectPOO&theme=radical" alt="ProjectPOO"/>
   </a>
-  <a href="https://github.com/Juan-Vergara/Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11.git">
+  <a href="https://github.com/Juan-Vergara/Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Vergara&repo=Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11&theme=radical" alt="Repositorio Grupal - Ingeniería de Software 1"/>
   </a>
 </div>
+
 
 ---
 
