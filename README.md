@@ -39,8 +39,10 @@ He participado en algunos proyectos como:
   </a>
 </div>
 ---
+
 ## Estadísticas
-[![Mis GitHub Stats](https://github-readme-stats.vercel.app/api?username=StalfonsoG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=StalfonsoG&show_icons=true&theme=radical" alt="Mis GitHub Stats" />
+
 ---
 
 ## Conectemos
