@@ -38,8 +38,9 @@ He participado en algunos proyectos como:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Vergara&repo=Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11&theme=radical" alt="Repositorio Grupal - Ingeniería de Software 1"/>
   </a>
 </div>
-
-
+---
+## Estadísticas
+[![Mis GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Conectemos
