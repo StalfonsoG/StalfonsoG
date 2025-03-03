@@ -49,7 +49,7 @@ He participado en algunos proyectos como:
 
 ---
 
-## Conectame
+## Contactame
 
 <div align="center">
   <a href="https://www.linkedin.com/in/steven-alfonso-7aa7572b9">
