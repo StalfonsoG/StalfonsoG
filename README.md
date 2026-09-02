@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Actualmente soy un estudiante de ingeniería de sistemas y computación en la Universidad Nacional de Colombia. Algunos de mis gustos e intereses son:
+Actualmente soy un estudiante de estadística en la Universidad Nacional de Colombia. Algunos de mis gustos e intereses son:
 
 - 🎵 **Musica**
 - 🐈‍⬛ **Gatos**
