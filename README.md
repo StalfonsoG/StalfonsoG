@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy StalfonsoG</h1>
+<h1 align="center">¡Hola! 👋 Soy Steven Alfonso</h1>
 <p align="center">
   Estudiante de <b>Estadística</b> en la <b>Universidad Nacional de Colombia</b> 📊 🇨🇴<br>
   Me interesan la inteligencia artificial, el análisis de datos y los modelos de pronóstico.
