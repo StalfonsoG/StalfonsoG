@@ -40,17 +40,15 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=StalfonsoG&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StalfonsoG&layout=compact&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=StalfonsoG&show_icons=true&theme=transparent&hide_border=true&count_private=true&locale=es&custom_title=Mis%20estad%C3%ADsticas" alt="Estadísticas de GitHub"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=StalfonsoG&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
 </p>
 
 ## 👾 Mis contribuciones
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph-    dark.svg">
   </picture>
 </p>
 
