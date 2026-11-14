@@ -40,7 +40,7 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StalfonsoG&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=StalfonsoG&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StalfonsoG&layout=compact&hide_border=true&locale=es" alt="Lenguajes más usados"/>
 </p>
 
