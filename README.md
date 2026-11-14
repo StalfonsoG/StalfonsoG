@@ -47,7 +47,8 @@
 ## 👾 Mis contribuciones
 
 <p align="center">
-  <img alt="Pac-Man comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
+  <img alt="Pac-Man comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/StalfonsoG/StalfonsoG/output/pacman-contribution-graph.svg#gh-light-mode-only">
 </p>
 
 ---
